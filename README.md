@@ -1,6 +1,6 @@
 # 黑马程序员C++教程改进代码
 ## 说明
-黑马程序员的C++课程对于新手入门C++非常友好，但是项目代码的写法依然具有提升空间，因此我也在一边跟着做项目一边阅读[《C++ Primer》](https://item.jd.com/11306138.html)，[《Effective C++》](https://item.jd.com/10393318.html)等书籍。以及一些有用的在线资源例如[Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/contents/), [Google Test](https://google.github.io/googletest/) 我试着学习他们的风格重写了最后两个项目，但由于时间有限，里面依然存在很多不足，后期如果有时间的话我也会修复它们，争取给大家做一个模板项目。大部分函数和视频中完全一样，只是修改了写法，尽量降低冗余。
+黑马程序员的C++课程对于新手入门C++非常友好，但是项目代码的写法依然具有提升空间，因此我也在一边跟着做项目一边阅读[《C++ Primer》](https://item.jd.com/11306138.html)，[《Effective C++》](https://item.jd.com/10393318.html)等书籍。以及一些有用的在线资源例如[Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/contents/), [Google Test](https://google.github.io/googletest/) 我试着学习他们的风格重写了最后两个项目，但由于时间有限，里面依然存在很多不足，后期如果有时间的话我也会修复它们，争取给大家做一个模板项目。大部分函数和视频中完全一样，只是修改了写法，尽量降低冗余。 如果觉得有帮助的话记得点亮小星星呦。
 ## B站链接
 [黑马程序员匠心之作|C++教程从0到1入门编程,学习编程不再难](https://www.bilibili.com/video/BV1et411b73Z)
 
